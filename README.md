@@ -19,7 +19,7 @@ Customer classification and inference
 
 ### Request
 - dict
-	- model_srn ([srn](https://wiki.sabrenow.com/display/SPT/Athena+SRN))
+	- model_srn (srn)
 	- params (dict)
 		- adults (int)
 		- arrivaldate (str)
